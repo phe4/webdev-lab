@@ -1,0 +1,11 @@
+What is the value of SQLAlchemy?
+The value of SQLALchemy is that it allows us to code in python to query from database, 
+and helps us get rid of commands of variety of relational databases.
+
+What is a model?
+It is an object that can be associated with tables in database, once we instantiate it
+We can manipulate the database tables (CRUD) by interacting with model.
+
+What is a view?
+View is a class where we can define the routes to the resources and functions with 
+different CRUD operations on the resources.
